@@ -1,0 +1,6 @@
+{
+  "name": "Hexadynamics Mining Safety",
+  "description": "Real-time AI & thermal-assisted hazard detection and collision avoidance system for open-cast iron ore mine machinery under fog and low-visibility conditions.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
